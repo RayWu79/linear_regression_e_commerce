@@ -1,0 +1,12 @@
+name: liner_regression_e_commerce
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas=2.2
+  - matplotlib=3.10
+  - seaborn=0.13
+  - numpy=2.0
+  - scipy=1.15
+  - jupyter=1.1
